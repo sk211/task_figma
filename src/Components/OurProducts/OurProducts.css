@@ -1,0 +1,52 @@
+.para_style{
+    width: 531.474365px;
+    color: #04041599;
+    border-radius: nullpx;
+    padding: 12px 0;
+    
+}
+
+.product_style{
+    font-family: 'Overlock';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 46px;
+}
+.product_paragraph{
+    width: 444.85px;
+    padding:34px 0;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: rgba(4, 4, 21, 0.8);
+}
+.hedlineSection{
+    padding-bottom: 93px;
+    padding-top:24px;
+}
+.padding-left{
+    padding-left:63px;
+}
+#button1{
+    width: 135px;
+    font-size:18px;
+height: 48px;
+left: 574.97px;
+top: 4386.52px;
+color:#000;
+background: rgba(48, 136, 255, 0.16);
+border-radius: 7px;
+}
+#button2{
+    width: 135px;
+height: 48px;
+left: 574.97px;
+top: 4386.52px;
+color:#fff;
+background: #3088ff;
+font-size:18px;
+border-radius: 7px;
+}

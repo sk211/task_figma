@@ -1,0 +1,73 @@
+.PricePackage{
+    padding-top:146px;
+    padding-bottom: 143px;
+}
+.price_paragraph{
+    padding-top:18px;
+width: 582.474365234375px;
+margin: 0 auto;
+font-family: Nunito;
+font-size: 18px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: center; 
+padding-bottom: 51px;
+color: #04041599;
+
+}
+.packing_button{
+    padding-bottom: 83px;
+}
+.packing_button button{
+    margin-right: 19.62px;
+}
+.card{
+    width: 349px;
+    border-radius: 12px;
+    background: rgba(48, 136, 255, 0.05);
+    padding: 20px 16px
+    
+}
+/* div:nth-child(2) {
+    background: red;
+  } */
+.second_card{
+    width: 349px;
+    border-radius: 12px;
+    background: #2D5BFF;
+
+    padding: 20px 16px
+    
+}
+.card h5{
+    padding-bottom:44px;
+    font-family: Overlock;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.card li{
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 18.82px;
+    
+    
+}
+#price_button{
+    margin-top:48.76px;
+    height: 46px;
+width: 273.21942138671875px;
+left: 189.0048828125px;
+top: 5015.2802734375px;
+border-radius: 12px;
+background-color: #F6A00E;
+
+}
