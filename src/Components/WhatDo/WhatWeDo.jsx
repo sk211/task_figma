@@ -5,8 +5,11 @@ import "./WhatDo.css"
 function WhatWeDo() {
   return (
     <div className='container mx-auto py-5'>
-         <h2 className='hedline_style'>What We Do</h2>
+      <div className="whatWeDo">
+      <h2 className='hedline_style'>What We Do</h2>
         <img src="../images/Underline 3 (1).png" alt="" />
+      </div>
+        
         <div className="display-flex">
             <SingleWhatWeDo 
             image={"../images/branding 1.png"}

@@ -1,0 +1,37 @@
+#OurDevs{
+    padding-top:157px;
+}
+.devsh2{
+    padding-bottom:86px;
+}
+.singleCustomer h4{ 
+    font-family: Nunito;
+font-size: 24px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: center;
+ /* padding-bottom: 82px; */
+}
+.text-center.devsh2 img {
+    height: 21.05292510986328px;
+    width: 236px;
+ 
+}
+.OurTitle{
+    border-bottom: 4px solid rgba(45, 91, 255, 0.1);
+    width: 197.08px;
+
+    margin-bottom: 92px;
+    }
+.OurTitle2{
+    border-bottom: 4px solid #2D5BFF;
+    ;
+    width: 197.08px;
+    margin-right: -125px;
+    margin-bottom: 92px;
+
+    }
+    .ourDevImage{
+        margin-bottom: 118px;
+    }

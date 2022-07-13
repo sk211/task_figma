@@ -4,7 +4,7 @@ function SinglePortfolio(props) {
   return (
     <div>
         <img src={props.image} alt="" />
-        <h5>{props.title}</h5>
+        <h5 className='singlePortfolio'>{props.title}</h5>
 
     </div>
   )

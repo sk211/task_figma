@@ -5,7 +5,7 @@ import "./OurCustomer.css"
 function OurCustomer() {
   return (
     <div className="container mx-auto section_padding">
-      <div className="text-center">
+      <div className="text-center ourCustomerTitle">
      
         <h2 className='hedline_style'>Our Customers</h2>
         <img src="../images/Underline 3 (1).png" alt="" />

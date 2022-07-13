@@ -6,7 +6,7 @@ function HeaderMeddle() {
       <div className="row">
     
       <div className="col-md py-5">
-      <h1>
+      <h1 className='headerTopTitle'>
       Software services for 
       <img src="../images/Underline 3 (1).png" alt="" />
       <br /> startups without <br /> limits..

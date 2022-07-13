@@ -40,14 +40,30 @@ color: #04041599;
     padding: 20px 16px
     
 }
-.card h5{
-    padding-bottom:44px;
+div#secondCard span {
+    color: #fff !important;
+}
+.card h4{
+    margin-bottom: 44px;
     font-family: Overlock;
     font-size: 28px;
     font-weight: 700;
     line-height: 34px;
     letter-spacing: 0em;
     text-align: left;
+ 
+    
+}
+.card h5{
+    margin-bottom: 44px;
+    font-family: Overlock;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    border-bottom: 10px solid #F6A00E;
+    border-radius: 2px;
     
 }
 .card li{
@@ -70,4 +86,17 @@ top: 5015.2802734375px;
 border-radius: 12px;
 background-color: #F6A00E;
 
+}
+#secondCard .card{
+    background-color: #2D5BFF;
+    color:#fff;
+}
+.row.clear_both.text-center img {
+    height: 21.05292510986328px;
+    width: 151.02471923828125px;
+   
+}
+span.check {
+    padding-right: 10px;
+    color: rgba(4, 4, 21, 0.8);
 }

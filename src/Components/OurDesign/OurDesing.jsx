@@ -1,12 +1,16 @@
 import React from 'react'
 import SingleCustomer from '../OurCustomer/SingleCustomer'
+import "./OurDesign.css"
 
 function OurDesing() {
   return (
-    <div className='container mx-auto'>
-        <h2> Our Design Technology</h2>
+    <div className='container mx-auto OurDesingSection'>
+      <div className="text-center ourDesign">
+      <h2 className='hedline_style text-center'> Our Design Technology</h2>
         <img src="../images/Underline 3 (1).png" alt="" />
-        <div className="display-flex">
+      </div>
+      
+        <div className="display-flex desing_image">
         <SingleCustomer 
         image="../images/image 5 (1).png"
         />

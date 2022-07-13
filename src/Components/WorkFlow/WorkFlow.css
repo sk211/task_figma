@@ -1,0 +1,61 @@
+.WorkFlow{
+    background-color: #F9F9F9;
+    padding-top:68px;
+    padding-bottom: 78px;
+    margin-bottom: 135px;
+;
+}
+.workFlowTop{
+    padding-bottom: 84px;
+}
+.workFlowLi{
+  
+    float: left;
+    
+}
+.workFlowLi li{
+    font-family: Overlock;
+    font-size: 22px;
+    font-weight: 400;
+    padding-top: 30px;
+    
+}
+
+.text-center.workFlowTop img {
+    height: 15.343993186950684px;
+    width: 172.00376892089844px;
+}
+.workFlow_Acodding {
+    width: 517px;
+    height: 167px;
+    left: 185px;
+    top: 7962px;
+    background: #FFFFFF;
+    box-shadow: 12px 12px 55px rgba(4, 4, 21, 0.06);
+    border-radius: 6px;
+}
+
+.workFlow_Acodding p {
+    padding: 17px 21px;
+    width: 438.43px;
+    height: 65.36px;
+    left: 210.57px;
+    top: 8030.64px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+/* or 150% */
+    color: rgba(4, 4, 21, 0.6);
+}
+
+.workFlow_Acodding li {
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+/* identical to box height, or 145% */
+    padding-left: 10px;
+}

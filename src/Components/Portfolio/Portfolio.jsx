@@ -1,11 +1,15 @@
 import React from 'react'
 import SinglePortfolio from './SinglePortfolio'
+import "./Protflio.css"
 
 function Portfolio() {
   return (
     <div className='container mx-auto'>
-        <h2>Our Portfolio</h2>
-        <img src="../images/Underline 3 (1).png" alt="" />
+      <div className="portfolioTop">
+      <h2 className='hedline_style'>Our Portfolio</h2>
+        <img src="../images/Underline 3 (1).png" alt=""  id="portfolio_img"/>
+      </div>
+      
         <div className="display-flex">
             <SinglePortfolio 
             image={"../images/Colory Cover 1.png"} 
@@ -22,7 +26,7 @@ function Portfolio() {
         </div>
         <div className="text-center py-5">
 
-        <button>See all Protpolio</button>
+        <button id="portfolio_btn">See all Protpolio</button>
         </div>
 
     </div>

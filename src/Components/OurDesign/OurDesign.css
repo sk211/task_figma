@@ -1,0 +1,22 @@
+.singleCustomer h4{ 
+    font-family: Nunito;
+font-size: 24px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: center;
+}
+.ourDesign{
+    padding-top:100px;
+}
+.OurDesingSection{
+padding-bottom: 230px;
+}
+.text-center.ourDesign img {
+    height: 21.05292510986328px;
+    width: 236px;
+  
+}
+.desing_image{
+    margin-top: 100px;
+}

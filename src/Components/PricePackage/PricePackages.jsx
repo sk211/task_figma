@@ -3,13 +3,8 @@ import SingleCard from './SingleCard'
 import "./PricePackages.css"
 
 function PricePackages(props) {
-  const sylese={
-      width: "349px",
-      borderRadius: "12px",
-      background: '#2D5BFF ',
- padding: "20px 16px"
+
  
-  }
   return (
     <div className='container mx-auto PricePackage'>
         <div className="row clear_both text-center">
@@ -42,7 +37,9 @@ function PricePackages(props) {
 
         
          />
-         <SingleCard  style={{sylese}}
+         <div  id="secondCard">
+       
+         <SingleCard 
          title={"UI/UX Design "}
          price={"$1000/ mo"}
          li1={"Dedicated Designer"}
@@ -55,6 +52,8 @@ function PricePackages(props) {
          li8={"Packaging & Label"}
          li9={"Logo & Brand Guide"}
          />
+            
+            </div>
          <SingleCard 
          title={"Development "}
          price={"$1000/ mo"}

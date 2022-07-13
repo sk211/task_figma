@@ -7,8 +7,12 @@ letter-spacing: 0px;
 text-align: left;
 width: 457px;
 color: #04041599;
+padding-bottom: 55px;
 
 
+}
+.name {
+    padding-left: 20px;
 }
 .about_section2{
     padding-top:58px;
@@ -16,11 +20,15 @@ color: #04041599;
 #about{
     padding-bottom: 150px;
 }
-/* #about {
-    height: 383.444091796875px;
-width: 383.444091796875px;
-left: 858.7843627929688px;
-top: 5361.375px;
-border-radius: 0px;
-
-} */
+.text-center.aboutTop img {
+    height: 21.05292510986328px;
+    width: 151.02471923828125px;
+  
+}
+.about_image{
+background-image: url("../../../public/images/Shape.png");
+background-repeat: no-repeat;
+background-size: cover;
+z-index: 1;
+text-align: center;
+}

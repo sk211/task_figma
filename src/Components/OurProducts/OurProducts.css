@@ -1,3 +1,14 @@
+#Our_ProductSection{
+    background-color:  #F9F9F9;
+    padding-top:79px;
+    padding-bottom: 140px;
+    
+}
+.OurProductTop.container.mx-auto img {
+    height: 21.05292510986328px;
+    width: 200.78573608398438px;
+  
+}
 .para_style{
     width: 531.474365px;
     color: #04041599;
@@ -14,14 +25,16 @@ font-size: 36px;
 line-height: 46px;
 }
 .product_paragraph{
-    width: 444.85px;
-    padding:34px 0;
+    width: 444px;
+    padding: 34px 0;
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
     line-height: 32px;
     color: rgba(4, 4, 21, 0.8);
+    padding-right: 60px;
+    text-align: justify;
 }
 .hedlineSection{
     padding-bottom: 93px;
@@ -49,4 +62,29 @@ color:#fff;
 background: #3088ff;
 font-size:18px;
 border-radius: 7px;
+}
+.product_para {
+        /* width: 570px; */
+        background: #fdfdfd;
+        height: 100%;
+        padding: 197px 5px 113px 79px;
+
+}
+
+.product_para p {
+    margin-right: 76px;
+}
+.product_para button {
+    width: 159.35px;
+    height: 52px;
+    /* left: 215.37px; */
+    /* top: 3139.22px; */
+    background: rgba(48, 136, 255, 0.12);
+    border-radius: 7px;
+    color: rgba(4, 4, 21, 0.8);
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 32px;
 }

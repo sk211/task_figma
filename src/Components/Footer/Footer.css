@@ -1,0 +1,148 @@
+.footerTop{
+    margin-top:135px;
+width: 1138.932861328125px;
+border-radius: 12px;
+background-color: #2D5BFF;
+align-items: center;
+text-align: center;
+color: #fff;
+padding:60px 50px; 
+margin-bottom: 72px;
+text-align: left;
+}
+a{
+    text-decoration: none;
+}
+.footerAreaSection li{ 
+    font-family: Nunito;
+font-size: 16px;
+font-weight: 400;
+text-align: left;
+padding-bottom: 20px;
+
+}
+.footerAreaSection a{ 
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+color: #04041599;
+
+    line-height: 22px;
+
+
+}
+.mainFooter{
+    height: 500px ;
+}
+.container.mx-auto.footerTop {
+    margin-bottom: 72px;
+}
+.logoFooter {
+    /* height: 87.13725280761719px; */
+    /* width: 132px; */
+    /* left: 151.683349609375px; */
+    /* top: 8999.99609375px; */
+    /* border-radius: 0px; */
+}
+
+.logoFooter p {
+    font-family: Nunito;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    font-family: Nunito;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    height: 64.28553771972656px;
+    width: 256.1850280761719px;
+  
+}
+
+img#footerlogo {
+    margin-bottom: 11px;
+}
+
+p.footerEmailfooterEmail {
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    padding-top: 21px;
+    color: #040415CC;
+}
+
+p.footerPhone {
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    padding-top: 14px;
+    color: #040415CC;
+}
+
+h3.footer_title {
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: 600;
+    /* line-height: 19px; */
+    letter-spacing: 0px;
+    text-align: left;
+    padding-bottom: 25.65px;
+    color: #040415;
+}
+hr{
+    margin-top:81px;
+    margin-bottom:27px; 
+    color: #04041529;
+
+
+}
+.text-center.footerBottom p {
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: center;
+    padding-bottom: 32px;
+}
+.col-2.footerAreaSection {
+    height: 350px;
+}
+p.footerIcon i {
+    width: 17px;
+    height: 16px;
+    /* left: 156.68px; */
+    /* top: 9277.38px; */
+    color: rgba(4, 4, 21, 0.46);
+    font-size: 18px;
+}
+
+p.footerIcon a {
+    padding-left: 15px;
+}
+i.fab.fa-facebook:hover {
+    color: #0072ff;
+}
+
+i.fab.fa-whatsapp:hover {
+    color: #0f6;
+}
+
+i.fab.fa-twitter:hover {
+    color: #00adff;
+}
+
+i.fab.fa-instagram:hover {
+    color: #d50000;
+}

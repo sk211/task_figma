@@ -1,10 +1,11 @@
 import React from 'react'
 import FooterTop from './FooterTop'
 import FooterBottom from './FooterBottom'
+import "./Footer.css"
 
 function FooterIndex() {
   return (
-    <div>
+    <div className='mainFooter'>
         <FooterTop />
         <FooterBottom />
     </div>
